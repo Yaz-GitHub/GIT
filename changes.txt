@@ -4,3 +4,4 @@ This is a secondcomment in the file.
 New comment from git
 Other one
 4
+3
