@@ -2,3 +2,4 @@
 This is a new comment in a black file.
 This is a secondcomment in the file.
 New comment from git
+Other one
