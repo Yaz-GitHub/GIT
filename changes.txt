@@ -1,2 +1,6 @@
-1
+1- modified line
 This is a new comment in a black file.
+This is a secondcomment in the file.
+New comment from git
+Other one
+4
