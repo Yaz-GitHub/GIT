@@ -1,5 +1,0 @@
-New file, Demo time!
-New test -2!
-New test -3!
-New test -4!
-New comment to target
