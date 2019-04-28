@@ -9,6 +9,7 @@ namespace CodeReviewDemo.Controllers
     public class ProductController : Controller
     {
         // GET: Product
+        // Test
         public ActionResult Index()
         {
             return View();
